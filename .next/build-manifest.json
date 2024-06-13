@@ -33,6 +33,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/aboutus.js"
+    ],
+    "/aboutus/developer": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/aboutus/developer.js"
     ]
   },
   "ampFirstPages": []
