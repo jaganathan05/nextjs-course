@@ -24,10 +24,20 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
+    "/aboutus": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/aboutus.js"
+    ],
     "/aboutus/[developer]": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/aboutus/[developer].js"
+    ],
+    "/next/dist/pages/_error": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/next/dist/pages/_error.js"
     ]
   },
   "ampFirstPages": []
