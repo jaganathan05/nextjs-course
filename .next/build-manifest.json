@@ -15,23 +15,23 @@
   ],
   "pages": {
     "/": [
-      "static/chunks/webpack.js",
       "static/chunks/main.js",
+      "static/chunks/webpack.js",
       "static/chunks/pages/index.js"
     ],
-    "/[meetupid]": [
-      "static/chunks/webpack.js",
+    "/[meetupId]": [
       "static/chunks/main.js",
-      "static/chunks/pages/[meetupid].js"
+      "static/chunks/webpack.js",
+      "static/chunks/pages/[meetupId].js"
     ],
     "/_app": [
-      "static/chunks/webpack.js",
       "static/chunks/main.js",
+      "static/chunks/webpack.js",
       "static/chunks/pages/_app.js"
     ],
     "/_error": [
-      "static/chunks/webpack.js",
       "static/chunks/main.js",
+      "static/chunks/webpack.js",
       "static/chunks/pages/_error.js"
     ]
   },
